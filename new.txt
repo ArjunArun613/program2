@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello everyone!!!my name is pulakeshi
+=======
+hello everyone!!! my name is arjun arun
+>>>>>>> his-branch
